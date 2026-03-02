@@ -1,2 +1,2 @@
 # Ben's tumblr themes
-A repository for my themes.
+These themes are free to use. ^__^
